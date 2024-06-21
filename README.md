@@ -7,9 +7,9 @@ The ESP32 I used for this project is the AI THINKER ESP32 CAM, and I used Python
 
 run the script autodataset.py with your path as an arg.
 
-'''bash
+```bash
 python3 ~/PATH/WHERE/THE/SCRIPT/IS/STORED/autodataset.py /ABSOLUTE/PATH/FOR/UR/PIC/TO/BE/STORED
-'''
+```
 
 upload the .ino code on your esp32 cam, and should work like a charm. 
 The project is tought as a simple couple of scripts that allows you to take pitures and send them locally to your machine,
